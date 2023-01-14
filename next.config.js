@@ -26,8 +26,8 @@ const nextConfig = withMDX({
 	// 				locale: false,
 	// 			},
 	// 			{
-	// 				source: '/index.:lang(\\w{2})',
-	// 				destination: '/404',
+	// 				source: '/index.:lang(\\w{2})/',
+	// 				destination: '/404/',
 	// 			},
 	// 		],
 	// 	}
